@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MovieTicket {
+public class MovieTicket {
     private String movieName;
     private double ticketPrice;
     private int numberOfTickets;
